@@ -1,8 +1,4 @@
-# computer-science
-Computer science studies helpers. 
-Have fun :)
-
-##MaxDHeap
+# MaxDHeap
 A simple, non-generic and minimalist implementation of the heap sort algorithm
 using d-ary maximum heap, to sort an array of integers.
 
