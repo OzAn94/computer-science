@@ -8,13 +8,13 @@ by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 
 ### Indexes Explained
 Let *A[0..n-1]* be the heap array (the heap size is *n*).  
-In d-ary heap, the index of the **k'th son of node *A[i]*** is:
+In d-ary heap, the index of the **k'th son of node A[i]** is:
 <center><img src="http://i.imgur.com/zNXzJpJ.png" width="35%"></center>
 
 (skipping the children of the previous *i-1* nodes)
 
 ---
-The index of the **parent of *A[i]*** is:
+The index of the **parent of A[i]** is:
 <center><img src="http://i.imgur.com/eh9s80O.png" width="14%"></center>
 
 **Proof**:   
